@@ -1,5 +1,3 @@
-Sure, here's the revised version with emojis:
-
 # 🔞 Roblox Condos Archive 
 
 ## 🌐 Supported Languages (for Support)
