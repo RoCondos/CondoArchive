@@ -31,5 +31,6 @@ We add the games that we find on the web or that have been leaked somewhere else
 ## 🚀 Future Plans
 - We plan to add a Discord Server to make the process better.
 - We also plan to add links to other websites where you can find more games.
+- We also plan to add a description of every uploaded game (details)
 
 Enjoy, I guess. . . 
