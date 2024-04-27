@@ -2,4 +2,4 @@ Just some files of condos, for preservation in general, u can iddentify with thi
 
 💙 < Just boring or with a few things
 
-🖤 < Not working good or completelly (anims, morphs, etc...) 
+🖤 < Not working good or completelly (anims, morphs, etc...) / Lost assets or irreparable
