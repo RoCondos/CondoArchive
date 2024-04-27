@@ -24,11 +24,11 @@ We add the games that we find on the web or that have been leaked somewhere else
 
 ## 🎮 Usage
 - You are free to **download** these games to test them or see what they contain.
-- If you find any errors in any of the games, we invite you to open a **Pull Request** with the corrections. 
+- If you find any errors in any of the games, we invite you to open a **Pull Request** with the corrections or report it on **Issues**.
 - If you wish to add new games to the repository, you can do so through a **Pull Request**. 
 
 ## 📧 Contact
-- If you are the owner of any of the games and wish for it to be removed, please contact us.
+- Discord: **Cumming soon!** 
 
 ## 🚀 Future Plans
 - We plan to add a Discord Server to make the process better.
