@@ -4,4 +4,8 @@ This is where the games are stored, rake a look, and open a "Pull request" or re
 | --- | --- |
 | ❤️ | Fixed & working |
 | 💜 | Working without fix |
+
+| Emoji | Meaning |
+| --- | --- |
 | ⭐ | Best condos (A lot of anims, morphs, etc...) |
+
