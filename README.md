@@ -1,6 +1,6 @@
 # Roblox Condos Archive
 
-Support Languages: Español - English
+🌐 Support Languages: **Español** - **English**
 
 This repository is dedicated to storing a collection of **leaked Condo games**. The primary purpose of this repository is **educational**.
 
