@@ -3,6 +3,7 @@
 This repository is dedicated to storing a collection of **leaked Condo games**. The primary purpose of this repository is **educational**.
 
 ⚠️ We add the games that we find on the web or that have been leaked somewhere else.
+⚠️ **DO NOT** publish this kind of games if you don't want to be banned permanently, play them on Roblox Studio or play them on an ALT account, it's at your own risk.
 
 > **Important**: None of the games stored in this repository are owned by us. We do not support or promote the behaviors of leaking games. Likewise, we do not support the existence of +18 games within the community.
 > This repository is intended to be a public archive for educational and reference purposes only.
