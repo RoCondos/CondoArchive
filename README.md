@@ -24,12 +24,12 @@ We add the games that we find on the web or that have been leaked somewhere else
 - You are free to **download** these games to test them or see what they contain.
 - If you find any errors in any of the games, we invite you to open a **Pull Request** with the corrections or report it on **Issues**.
 - If you wish to add new games to the repository, you can do so through a **Pull Request**. 
+> Or if you want, you can do this process in our discord server!
 
 ## 📧 Contact
-- Discord: **Cumming soon!** 
+- Discord: **https://discord.gg/cuem3mvGkE** 
 
 ## 🚀 Future Plans
-- We plan to add a Discord Server to make the process better.
 - We also plan to add links to other websites where you can find more games.
 - We also plan to add a description of every uploaded game (details)
 - And also, assets and more stuff!
